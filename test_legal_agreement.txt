@@ -1,0 +1,40 @@
+Legal Services Agreement
+
+This Legal Services Agreement ("Agreement") is entered into on January 15, 2024, between:
+
+Client: Acme Corporation
+Address: 123 Business Street, New York, NY 10001
+
+And
+
+Attorney: Smith & Associates Law Firm
+Address: 456 Legal Avenue, New York, NY 10002
+
+1. SCOPE OF SERVICES
+The Attorney agrees to provide legal consultation services related to corporate governance, contract review, and compliance matters.
+
+2. FEES AND PAYMENT
+The Client agrees to pay the Attorney a retainer fee of $10,000 upon execution of this Agreement.
+Hourly rate for additional services: $350 per hour
+Invoices will be submitted monthly and are due within 30 days of receipt.
+
+3. TERM AND TERMINATION
+This Agreement shall commence on January 15, 2024, and continue for a period of six (6) months.
+Either party may terminate this Agreement with 30 days written notice.
+
+4. CONFIDENTIALITY
+Both parties agree to maintain strict confidentiality of all information exchanged during the term of this Agreement.
+
+5. GOVERNING LAW
+This Agreement shall be governed by the laws of the State of New York.
+
+6. DISPUTE RESOLUTION
+Any disputes arising from this Agreement shall be resolved through binding arbitration in New York County.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+Client Signature: _________________
+Date: January 15, 2024
+
+Attorney Signature: _________________
+Date: January 15, 2024

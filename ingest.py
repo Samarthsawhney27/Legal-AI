@@ -16,7 +16,7 @@ import time
 import math
 
 # LangChain imports
-from langchain.document_loaders import (
+from langchain_community.document_loaders import (
     CSVLoader,
     EverNoteLoader,
     PyMuPDFLoader,
@@ -30,10 +30,20 @@ from langchain.document_loaders import (
     UnstructuredWordDocumentLoader,
 )
 
-from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.vectorstores import Chroma
-from langchain.embeddings import HuggingFaceEmbeddings
-from langchain.docstore.document import Document
+try:
+    # Newer LangChain splitters package
+    from langchain_text_splitters import RecursiveCharacterTextSplitter
+except ImportError:
+    # Fallback for older LangChain versions
+    from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_community.vectorstores import Chroma
+from langchain_community.embeddings import HuggingFaceEmbeddings
+try:
+    # Newer LangChain core documents location
+    from langchain_core.documents import Document
+except ImportError:
+    # Fallback for older LangChain versions
+    from langchain.docstore.document import Document
 
 import chromadb
 
